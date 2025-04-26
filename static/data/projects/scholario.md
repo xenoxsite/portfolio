@@ -38,7 +38,3 @@ A comprehensive and efficient school management system built using **SvelteKit**
 - Enhancing UI with animations for a smoother experience.
 
 This application is designed to make school management seamless and efficient! 🚀
-
-## Source Code
-
-Check out the project on <a href="https://github.com/xenoxsite/scholario" target="_blank">GitHub</a>.
