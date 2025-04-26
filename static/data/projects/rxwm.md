@@ -31,7 +31,3 @@ RXWM provides a streamlined and efficient experience, offering both **customizat
 ## Why RXWM?
 
 RXWM improves the user experience for those who want the **simplicity and efficiency** of DWM but with a **modern interface** and **intuitive keybindings**, without sacrificing performance.
-
-## Source Code
-
-Check out the project on <a href="https://github.com/xenoxsite/rxwm" target="_blank">GitHub</a>.
