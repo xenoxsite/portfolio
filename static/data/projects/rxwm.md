@@ -10,8 +10,6 @@ RXWM provides a streamlined and efficient experience, offering both **customizat
 
 ![2025-03-22_02:35:45](https://github.com/user-attachments/assets/7135a8d3-dd12-4493-9c2d-422a1d27acb3)
 
-![2025-03-22_02:42:10](https://github.com/user-attachments/assets/3c315ac7-652f-4617-9bef-5dc7d032c7f2)
-
 ## Features
 
 - **Redesigned UI** – Modernized visual design with an improved status bar, better window management, and user-friendly layout.
